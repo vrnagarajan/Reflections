@@ -1,0 +1,1 @@
+This file contains my reflections on Git and GitHub training Lesson_3.
